@@ -1,0 +1,22 @@
+.maincal{
+    text-align: center;
+    margin: 0 auto;
+    border: 2px inset red;
+    max-width: 300px;
+    width: 300px;
+    max-height: 800px;
+    height: 300px;
+}
+.inputset{
+        width: 100%;
+        height: 40px;
+        background-color: rgb(194, 192, 192);
+}
+.buttonclass{
+    margin: 0 auto;
+    height: 60px;
+    width: 60px;
+}
+.padding{
+    padding: 2px 20px;
+}
